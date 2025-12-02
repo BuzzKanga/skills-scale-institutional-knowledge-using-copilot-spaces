@@ -21,6 +21,13 @@ OctoAcme runs projects with a customer-first, iterative mindset focused on deliv
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
 
+## Templates & Checklists
+- [Release Coordinator Checklist](release-coordinator-checklist.md)
+- [QA Release Checklist](qa-release-checklist.md)
+- [Incident Runbook Template](incident-runbook-template.md)
+- [Vendor Management Guidelines](vendor-management-guidelines.md)
+- [Personas Interaction Matrix](personas-interaction-matrix.md)
+
 ## How to use these docs
 - New team members: start with the Project Management Overview to learn our approach, then review Roles & Personas to understand ownership.
 - Project leads: follow the Initiation and Planning guides when standing up a new project.

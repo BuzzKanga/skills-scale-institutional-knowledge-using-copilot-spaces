@@ -3,6 +3,8 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+> **Related docs**: [Release Coordinator Checklist](release-coordinator-checklist.md) | [QA Release Checklist](qa-release-checklist.md) | [Roles & Personas](octoacme-roles-and-personas.md)
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements
@@ -25,7 +27,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
-  - Trigger incident response and notify on-call
+  - Trigger incident response and notify on-call (see [Incident Runbook Template](incident-runbook-template.md))
   - Rollback to last known-good release if necessary
   - Triage root cause and capture action items
 
