@@ -3,6 +3,8 @@
 ## Purpose
 Explain how to identify, manage, and communicate risks and dependencies.
 
+> **Related docs**: [Incident Runbook Template](incident-runbook-template.md) | [Vendor Management Guidelines](vendor-management-guidelines.md) | [Roles & Personas](octoacme-roles-and-personas.md)
+
 ## Risk Register
 Maintain a simple table with:
 - ID
@@ -36,6 +38,8 @@ Incident Communication
 - Actions being taken
 - Expected timeline
 - Post-incident blameless retrospective scheduled
+
+For detailed incident procedures, see [Incident Runbook Template](incident-runbook-template.md).
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor

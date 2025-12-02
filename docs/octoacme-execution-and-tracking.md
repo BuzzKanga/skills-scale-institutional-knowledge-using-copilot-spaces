@@ -3,6 +3,8 @@
 ## Purpose
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
+> **Related docs**: [QA Release Checklist](qa-release-checklist.md) | [Roles & Personas](octoacme-roles-and-personas.md)
+
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks

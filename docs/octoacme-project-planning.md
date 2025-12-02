@@ -3,6 +3,8 @@
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
+> **Related docs**: [QA Release Checklist](qa-release-checklist.md) | [Vendor Management Guidelines](vendor-management-guidelines.md) | [Roles & Personas](octoacme-roles-and-personas.md)
+
 ## Objectives
 - Break work into shippable increments
 - Identify dependencies and risks
